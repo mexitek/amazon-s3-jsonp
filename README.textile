@@ -8,4 +8,6 @@ tpyo's awesome php class for s3 API. https://github.com/tpyo/amazon-s3-php-class
 
 h1. Instructions
 
-Edit @s3_object.php@ with your @Amazon Key@ and your @Amazon Secret Key@.  That's it!
+# Edit @s3_object.php@ with your @Amazon Key@ and your @Amazon Secret Key@.  That's it!
+# Edit @jsonpBucketContents.php@ and change the timezone to that of your server running this script.
+# Edit @jsonpBucketContents.php@ and replace @bayarea@ with YOUR desired default bucket.
