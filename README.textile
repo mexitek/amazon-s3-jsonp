@@ -1,0 +1,11 @@
+h1. Purpose
+
+Returns JSON data wrapped in a callback (JSONP).  Made for public Javascript APIs to read from an S3 service.
+
+h1. Forked From
+
+tpyo's awesome php class for s3 API. https://github.com/tpyo/amazon-s3-php-class
+
+h1. Instructions
+
+Edit @s3_object.php@ with your @Amazon Key@ and your @Amazon Secret Key@.  That's it!
