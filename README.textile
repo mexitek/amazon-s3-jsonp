@@ -11,3 +11,5 @@ h1. Instructions
 # Edit @s3_object.php@ with your @Amazon Key@ and your @Amazon Secret Key@.  That's it!
 # Edit @jsonpBucketContents.php@ and change the timezone to that of your server running this script.
 # Edit @jsonpBucketContents.php@ and replace @bayarea@ with YOUR desired default bucket.
+
+h1. License: "arlo.mit-license.org":http://arlo.mit-license.org
